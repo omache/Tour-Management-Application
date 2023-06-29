@@ -45,9 +45,9 @@ Build and run the project using your preferred ASP.NET development environment.
 
 The Tour Management Project relies on the following dependencies:
 
-- ASP.NET Framework (version X.X.X): The project is built on the ASP.NET framework, ensuring robustness and scalability.
+- ASP.NET Framework ): The project is built on the ASP.NET framework, ensuring robustness and scalability.
 
-- SQL Server (version X.X.X): The application uses SQL Server as the database management system to store tour and booking information.
+- SQL Server  : The application uses SQL Server as the database management system to store tour and booking information.
 
 - Other dependencies: Please refer to the project's `packages.config` file for a complete list of dependencies and their versions.
 
