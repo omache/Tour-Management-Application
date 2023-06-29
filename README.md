@@ -32,8 +32,8 @@ To run the project locally, follow these steps:
 
 2. Clone the repository to your local machine using the following command:
 
-```shell
-git clone https://github.com/omache/Tour_Management_Application.git
+ 
+`git clone https://github.com/omache/Tour_Management_Application.git`
 
 Open the `app_data` folder in the project directory.
 
