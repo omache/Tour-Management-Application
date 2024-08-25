@@ -51,14 +51,3 @@ The Tour Management Project relies on the following dependencies:
 
 - Other dependencies: Please refer to the project's `packages.config` file for a complete list of dependencies and their versions.
 
-## Contributing
-
-Contributions to the Tour Management Project are welcome and encouraged! If you have any suggestions, improvements, or bug fixes, please follow the guidelines outlined in the `CONTRIBUTING.md` file.
-
-## License
-
-The Tour Management Project is released under the MIT License. Please review the license file for more information.
-
-## Support
-
-If you encounter any issues or have any questions regarding the project, please open an issue. We are here to help!
